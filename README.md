@@ -11,6 +11,7 @@ Fun Fact: The Mona Lisa has no eyebrows.
 [<img align="left" alt="Connect via Slack" src="https://assets.brandfolder.com/pl546j-7le8zk-afym5u/v/3033396/original/Slack_Mark_Web.png" width="64px" />][slack]
 
 <br />
+<br />
 
 ### Languages and Tools
 
